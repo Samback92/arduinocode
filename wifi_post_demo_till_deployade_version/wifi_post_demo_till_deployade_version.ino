@@ -86,7 +86,7 @@ void loop() {
     printWifiStatus();
 
   }
-  delay(1200000);    //20 minuter
+  delay(3600000);    //60 minuter
 
 }
 
